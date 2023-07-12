@@ -25,7 +25,7 @@ While the visualization (html) shows the final crossword state and entire chat h
 
 ## Data
 
-We collect data and provide logs from crowdworkers interacting with AI Teammates based on 4 different LMs: three variants of OpenAI’s GPT-3 (text-davinci-001, text-babbage-001, and davinci) and AI21's Jurassic-1 (ai21-jumbo), with the following overall counts:
+We collect data and provide replays/logs from crowdworkers interacting with AI Teammates based on 4 different LMs: three variants of OpenAI’s GPT-3 (text-davinci-001, text-babbage-001, and davinci) and AI21's Jurassic-1 (ai21-jumbo), with the following overall counts:
 
 
 | Language Model | # of Logs | 
